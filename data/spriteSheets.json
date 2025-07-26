@@ -1,0 +1,132 @@
+{
+  "deathgridsheetnobgultimate.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/death_grid_sheet_nobg_ultimate.png",
+    "imageSize": "6480x6480",
+    "columns": 9,
+    "rows": 9,
+    "lastRowFrames": 5,
+    "frameWidth": 720,
+    "frameHeight": 720,
+    "totalFrames": 77
+  },
+  "frizzy_acrobatic_sprite_sheet_7columns.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/frizzy_acrobatic_sprite_sheet_7columns.png",
+    "imageSize": "3808x3680",
+    "columns": 7,
+    "rows": 5,
+    "lastRowFrames": 2,
+    "frameWidth": 544,
+    "frameHeight": 736,
+    "totalFrames": 30
+  },
+  "frizzy_idle_breath_sheet_final.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/frizzy_idle_breath_sheet_final.png",
+    "imageSize": "3808x2208",
+    "columns": 7,
+    "rows": 3,
+    "lastRowFrames": 6,
+    "frameWidth": 544,
+    "frameHeight": 736,
+    "totalFrames": 20
+  },
+  "frizzy_jump_sprite_sheet_2x8.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/frizzy_jump_sprite_sheet_2x8.png",
+    "imageSize": "6144x2304",
+    "columns": 7,
+    "rows": 2,
+    "lastRowFrames": 7,
+    "frameWidth": 877,
+    "frameHeight": 1152,
+    "totalFrames": 14
+  },
+  "frizzy_punch_sprite_sheet_8columns.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/frizzy_punch_sprite_sheet_8columns.png",
+    "imageSize": "4096x2304",
+    "columns": 8,
+    "rows": 3,
+    "lastRowFrames": 3,
+    "frameWidth": 512,
+    "frameHeight": 768,
+    "totalFrames": 19
+  },
+  "frizzy_run_sprite_sheet_6columns.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/frizzy_run_sprite_sheet_6columns.png",
+    "imageSize": "4608x2304",
+    "columns": 6,
+    "rows": 2,
+    "lastRowFrames": 6,
+    "frameWidth": 768,
+    "frameHeight": 1152,
+    "totalFrames": 12
+  },
+  "frizzy_walk_sprite_sheet_7columns.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/frizzy_walk_sprite_sheet_7columns.png",
+    "imageSize": "5376x3456",
+    "columns": 7,
+    "rows": 3,
+    "lastRowFrames": 4,
+    "frameWidth": 768,
+    "frameHeight": 1152,
+    "totalFrames": 18
+  },
+  "idlebreathsheet_final.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/idle_breath_sheet_final.png",
+    "imageSize": "5760x3840",
+    "columns": 9,
+    "rows": 6,
+    "lastRowFrames": 1,
+    "frameWidth": 640,
+    "frameHeight": 640,
+    "totalFrames": 46
+  },
+  "percy_idle_breath_sprite_sheet_7columns.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/percy_idle_breath_sprite_sheet_7columns.png",
+    "imageSize": "4480x2560",
+    "columns": 7,
+    "rows": 4,
+    "lastRowFrames": 7,
+    "frameWidth": 640,
+    "frameHeight": 640,
+    "totalFrames": 28
+  },
+  "punchheavysheet_final.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/punch_heavy_sheet_final.png",
+    "imageSize": "7632x2304",
+    "columns": 9,
+    "rows": 3,
+    "lastRowFrames": 4,
+    "frameWidth": 848,
+    "frameHeight": 768,
+    "totalFrames": 22
+  },
+  "punchspinsheet_final.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/punch_spin_sheet_final.png",
+    "imageSize": "5120x1920",
+    "columns": 8,
+    "rows": 3,
+    "lastRowFrames": 7,
+    "frameWidth": 640,
+    "frameHeight": 640,
+    "totalFrames": 23
+  },
+  "walksheetfinal.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/walk_sheet_final.png",
+    "imageSize": "5120x3200",
+    "columns": 8,
+    "rows": 5,
+    "lastRowFrames": 5,
+    "frameWidth": 640,
+    "frameHeight": 640,
+    "totalFrames": 37
+  },
+  "ziggy_idle_breath_sprite_sheet_7columns.png": {
+    "url": "https://raw.githubusercontent.com/Aren1414/MonRaid-Sprite/refs/heads/main/Sprite/ziggy_idle_breath_sprite_sheet_7columns.png",
+    "imageSize": "4480x2560",
+    "columns": 7,
+    "rows": 4,
+    "lastRowFrames": 4,
+    "frameWidth": 640,
+    "frameHeight": 640,
+    "totalFrames": 25
+  }
+}
